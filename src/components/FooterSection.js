@@ -22,12 +22,12 @@ Still here? Well, embrace the void! We’re on a one-way journey to ZERO, where 
           </p>
           <div className="flex justify-center space-x-4 mt-4">
             {/* Insert your social media links */}
-            <a href="https://t.me/zerosoltoken" target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="transition duration-300 ease-in-out hover:scale-125">
+            <a href="https://twitter.com/zerosoltoken" target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="transition duration-300 ease-in-out hover:scale-125">
               {/* Twitter Icon */}
               {/* Placeholder for an icon. Use an actual <img> or <svg> here */}
               <span>Twitter</span>
             </a>
-            <a href="https://telegram.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="transition duration-300 ease-in-out hover:scale-125">
+            <a href="https://t.me/zerosoltoken" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="transition duration-300 ease-in-out hover:scale-125">
               {/* Facebook Icon */}
               {/* Placeholder for an icon. Use an actual <img> or <svg> here */}
               <span>Telegram</span>
