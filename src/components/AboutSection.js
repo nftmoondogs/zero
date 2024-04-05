@@ -13,7 +13,7 @@ export default function AboutSection() {
           <ul className="list-disc list-inside space-y-2 mb-4">
             <li>Man what the hell are you really? Now reading key point. Look at the freaking ticker $ZERO </li>
             <li>No Let's Send it to Radium, No Lambo, No more, No Dev is based just Zero Percent</li>
-            <li>Looks like you're still reading so like me tell you Clearly We are going to ZERO</li>
+            <li>Looks like you're still reading so let me tell you Clearly, We are going to fking ZERO</li>
           </ul>
           <img src="https://i.ibb.co/P6mfd9R/Banner1-ezgif-com-webp-to-gif-converter.gif" alt="Wen Logo" className="mx-auto rounded-lg shadow-lg transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105" />
         </div>
