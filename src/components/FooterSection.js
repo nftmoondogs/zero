@@ -17,7 +17,7 @@ const FooterSection = () => {
 
 SOS or SOSOS, who cares? We’re riding with $ZERO! ☠️
 What in the underworld? Peek at the ticker: $ZERO – it's not just a name, it’s a prophecy.
-Forget Radium launches, forget moonshot fantasies, and forget those "based" devs. We’re rocking it raw and real with Zero Percent.
+Forget Meteora launches, forget moonshot fantasies, and forget those "based" devs. We’re rocking it raw and real with Zero Percent.
 Still here? Well, embrace the void! We’re on a one-way journey to ZERO, where we revel in the nothingness.
           </p>
           <div className="flex justify-center space-x-4 mt-4">
