@@ -7,9 +7,9 @@ const TokenomicsSection = () => {
       <div className="container mx-auto grid md:grid-cols-2 gap-8 items-center">
         {/* Content Section */}
         <div>
-          <h2 className="text-3xl font-bold mb-6">PreSale on MoonShot🌙, Only for fearless Degens!?!?!!!</h2>
+          <h2 className="text-3xl font-bold mb-6">PreSale on Pump.Fun💊, Only for fearless Degens!?!?!!!</h2>
           <p className="mb-4">
-            $ZERO PreSale will take place on MoonShot🌙 0% chance of making it out alive This token is CREEPY AF
+            $ZERO PreSale will take place on Pump.Fun💊 0% chance of making it out alive This token is CREEPY AF
           </p>
           <h3 className="text-2xl font-bold mb-4">I don't think we are going to Meteora JEETS CURSED US, even if we reach we are going to 0%</h3>
           <ul className="list-disc list-inside space-y-2">
