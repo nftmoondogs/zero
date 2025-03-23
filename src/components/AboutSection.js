@@ -5,14 +5,14 @@ export default function AboutSection() {
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
         {/* Left Side Content */}
         <div>
-          <h2 className="text-3xl md:text-4xl lg:text-4xl font-bold mb-4">Cursed by Solana Jeets, Now going to 0%💀</h2>
+          <h2 className="text-3xl md:text-4xl lg:text-4xl font-bold mb-4">Cursed by BNB Jeets, Now going to 0%💀</h2>
           <p className="text-base mb-4">
             $ZERO Creepy website, Dev is cursed, Token is cursed then why are you here?
           </p>
           <h3 className="text-xl md:text-2xl font-bold mb-3">SOS   ?????????☠️</h3>
           <ul className="list-disc list-inside space-y-2 mb-4">
             <li>Man what the hell are you really? Now reading key point. Look at the freaking ticker $ZERO </li>
-            <li>No Let's Send it to Meteora, No Lambo, No more, No Dev is based just Zero Percent</li>
+            <li>No Let's Send it to PancakeSwap, No Lambo, No more, No Dev is based just Zero Percent</li>
             <li>Looks like you're still reading so let me tell you Clearly, We are going to fking ZERO</li>
           </ul>
           <img src="https://i.ibb.co/P6mfd9R/Banner1-ezgif-com-webp-to-gif-converter.gif" alt="Wen Logo" className="mx-auto rounded-lg shadow-lg transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-105" />
