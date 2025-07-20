@@ -5,7 +5,7 @@ export default function AboutSection() {
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 items-start">
         {/* Left Side Content */}
         <div>
-          <h2 className="text-3xl md:text-4xl lg:text-4xl font-bold mb-4">Cursed by BNB Jeets, Now going to 0%💀</h2>
+          <h2 className="text-3xl md:text-4xl lg:text-4xl font-bold mb-4">Cursed by SOL Jeets, Now going to 0%💀</h2>
           <p className="text-base mb-4">
             $ZERO Creepy website, Dev is cursed, Token is cursed then why are you here?
           </p>
